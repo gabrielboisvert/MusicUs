@@ -31,4 +31,4 @@ Link Google Play https://play.google.com/store/apps/details?id=com.iownyourworld
 
 ![alt text](https://github.com/gabrielboisvert/MusicUs/blob/main/ScreenShot/Capture3.PNG)
 
-![alt text](https://github.com/gabrielboisvert/MusicUs/blob/main/ScreenShot/Capture4.PNG)
+![alt text](https://github.com/gabrielboisvert/MusicUs/blob/main/ScreenShot/Capture4.png)
